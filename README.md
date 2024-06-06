@@ -1,4 +1,4 @@
-# NoteGen: Automate Your Note-Taking Process
+# NoteGen: Automate Your Note-Taking Process With LLM
 
 **NoteGen** is a tool designed to automate the process of generating detailed notes from YouTube video transcripts. Using Google's Gemini API and OpenAI's Whisper model, NoteGen extracts key insights, critical information, and actionable takeaways from video content, providing a concise summary formatted as bullet points.
 
